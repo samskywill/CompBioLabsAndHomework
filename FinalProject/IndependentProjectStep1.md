@@ -2,7 +2,7 @@
 
 
 > Written with [StackEdit](https://stackedit.io/).
-# Children in the Syrian Civil War: An Analysis of the Data
+# Children in the Syrian Civil War: A Gender-Focused Analysis
  ## Introduction
 The Syrian Civil War has been an ongoing political upset that began in 2011, and has yet to end. One of the consequences of this war has been one of the most tragic humanitarian crises in history. In 2019, the WHO published a [humanitarian needs overview for Syria](https://reliefweb.int/sites/reliefweb.int/files/resources/2019_Syr_HNO_Full.pdf), and estimated that 11.7 million people are in need of humanitarian assistance as a result of the conflicts. Of the 11.7 million, it is estimated that 5 million of them are children. 
 
