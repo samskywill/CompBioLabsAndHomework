@@ -79,7 +79,7 @@ clinMalnGraph <- ggplot(syriaBoyGirl,
   ggtitle("Percent of Girls and Boys with Clinical Signs of Malnutrition") +
   theme(plot.title = element_text(hjust = 0.5))
 
-ggarrange (availNutrGraph, #arrange the plots for the given indicator of health according to 
+ggarrange (availNutrGraph, #arrange the plots for the given indicator of health 
            ggarrange (nutrSafeGraph, clinMalnGraph,
            nrow = 2)
            )
